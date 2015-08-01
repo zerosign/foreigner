@@ -9,4 +9,4 @@
 	url = https://github.com/zerosign/mongo_fdw
 [submodule "lib/rw_redis_fdw"]
 	path = lib/rw_redis_fdw
-	url = https://github.com/nahanni/rw_redis_fdw.git
+	url = https://github.com/zerosign/rw_redis_fdw.git
