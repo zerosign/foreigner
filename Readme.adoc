@@ -1,0 +1,16 @@
+foreigner
+-----------
+
+`foreigner` are one of efforts to port several foreign data wrapper development from `C/C++` language
+into safer native high-level language like `rust`. After being ported, it should be easier to maintain
+the plugin across OS and low level pg structs.
+
+Several plugins included in `foreigner` are :
+
+- Redis foreign data wrapper
+- MySQL foreign data wrapper
+- MongoDB foreign data wrapper
+- RethinkDB foreign data wrapper
+- etc..
+
+Hopefully this project gonna works just fine.
